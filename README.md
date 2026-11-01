@@ -1,14 +1,15 @@
-# ARANDUVA V31 — Prototipo académico adaptable
+# ARANDUVA V32 — Plataforma multilingüe (demo)
 
-**Marcelo Encina · Ana Corvalán | Paraguay, 2026**
+Prototipo de ARANDUVA, 2026. Coautoría: **Marcelo Encina y Ana Corvalán**.
 
-Plataforma académica interuniversitaria paraguaya con identidad inspirada en la Mata Atlántica de Alto Paraná y en Mainú, colibrí mensajero del conocimiento.
+## Idiomas
 
-## Diseño responsive
-La V31 conserva los módulos y estructura de la V30. Incorpora ajustes de presentación para computadoras, tablets y teléfonos: menú lateral desplegable, columnas apilables, tarjetas fluidas, calendario compacto y salas audiovisuales adaptadas.
+El selector superior permite escoger **Español, Português o English**. Traduce localmente navegación, acciones y contenidos editoriales principales, sin enviar datos de estudiantes a terceros. Guarda el idioma seleccionado en el navegador cuando el almacenamiento está disponible. **Los artículos académicos y algunos textos extensos de demostración se conservan en su lengua de origen. No es un sistema de traducción integral de documentos.**
 
-## Publicar en GitHub Pages
-Subí **todo el contenido de esta carpeta** a la raíz de tu repositorio. Después activá Settings → Pages → Deploy from a branch → `main` → `/ (root)`. No requiere npm ni compilación.
+## Publicación
 
-## Importante
-Esto es un prototipo conceptual. Las publicaciones, permisos, eventos, transmisiones, chat y respuestas de Mainú son simulaciones; no representan integraciones institucionales reales ni una IA productiva. La adaptabilidad visual no convierte la demo en un sistema de producción.
+Subí `index.html` a GitHub Pages, desde la rama `main` en la raíz. No necesita compilación.
+
+## Aviso
+
+Los datos, transmisiones y respuestas de Mainú son demostrativos. No existen convenios institucionales reales ni traducción automática de material académico.
